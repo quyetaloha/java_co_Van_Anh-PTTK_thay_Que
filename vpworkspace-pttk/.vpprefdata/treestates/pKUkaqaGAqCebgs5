@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProjectTreeState projectID="emorqqaGAqCebgMp" projectPath="C:\Users\Hoang Quyet\vpworkspace\bai1.vpp">
+	<TreeState name="ModelRepository" viewX="0" viewY="0">
+		<ExpandedPath>ModelRepository</ExpandedPath>
+		<SelectedPath>ModelRepository,giCIfqaD.AAAAQVI</SelectedPath>
+	</TreeState>
+	<TreeState name="DiagramNavigator" viewX="32" viewY="40">
+		<ExpandedPath>DiagramNavigator</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,UML Diagrams</ExpandedPath>
+		<ExpandedPath>ClassDiagram</ExpandedPath>
+		<ExpandedPath>ClassDiagram,hV4rqqaGAqCebgTd</ExpandedPath>
+		<ExpandedPath>InteractionDiagram</ExpandedPath>
+		<ExpandedPath>InteractionDiagram,qcCIfqaD.AAAAQU9</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Requirements Capturing</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Database Modeling</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Business Process Modeling</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,SysML</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Enterprise Modeling</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Impact Analysis</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Others</ExpandedPath>
+		<SelectedPath>ClassDiagram,hV4rqqaGAqCebgTd,CFErqqaGAqCebgTm</SelectedPath>
+	</TreeState>
+	<TreeState name="ClassBrowser" viewX="0" viewY="0">
+		<ExpandedPath>ClassBrowser</ExpandedPath>
+		<ExpandedPath>ClassBrowser,ClassBrowser</ExpandedPath>
+		<ExpandedPath>ClassBrowser,Java Round-trip</ExpandedPath>
+		<SelectedPath>ClassBrowser,ClassBrowser,NTRbqqaGAqCebgVg</SelectedPath>
+	</TreeState>
+	<TreeState name="LogicalView" viewX="0" viewY="0">
+		<SelectedPath>LogicalView</SelectedPath>
+	</TreeState>
+</ProjectTreeState>

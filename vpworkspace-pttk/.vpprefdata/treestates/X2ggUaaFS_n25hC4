@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProjectTreeState projectID="xCpHEaaFS_n25gXR" projectPath="C:\Users\Hoang Quyet\vpworkspace\baitap1.vpp">
+	<TreeState name="ModelRepository" viewX="19" viewY="0">
+		<ExpandedPath>ModelRepository</ExpandedPath>
+	</TreeState>
+	<TreeState name="DiagramNavigator" viewX="35" viewY="0">
+		<ExpandedPath>DiagramNavigator</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,UML Diagrams</ExpandedPath>
+		<ExpandedPath>ClassDiagram</ExpandedPath>
+		<ExpandedPath>InteractionDiagram</ExpandedPath>
+		<SelectedPath>InteractionDiagram,V8VHEaaFS_n25geG</SelectedPath>
+	</TreeState>
+	<TreeState name="ClassBrowser" viewX="0" viewY="0">
+		<ExpandedPath>ClassBrowser</ExpandedPath>
+		<ExpandedPath>ClassBrowser,ClassBrowser</ExpandedPath>
+		<SelectedPath>ClassBrowser,ClassBrowser</SelectedPath>
+	</TreeState>
+	<TreeState name="LogicalView" viewX="0" viewY="0">
+		<SelectedPath>LogicalView</SelectedPath>
+	</TreeState>
+</ProjectTreeState>
